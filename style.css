@@ -1,0 +1,30 @@
+.heading{
+    color:lightgreen;
+    font-weight: bold;
+    font-size: 17px;
+    width: 100%;
+    margin: 0;
+    box-shadow: darkblue;
+}
+
+.note{
+    color: turquoise;
+}
+
+.copy-right-footer{
+width: 100%;
+text-align: center;
+bottom: 0;
+position: fixed;
+line-height: 3;
+font-size: 20px;
+font-weight: bold;
+background-color: midnightblue;
+color:mintcream;
+}
+
+canvas{
+    background: rgb(187, 255, 248);
+	border-radius: 20px;
+    box-shadow:rgb(132, 159, 235)
+}
